@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jai Sogani
+# 👋 Hi, I’m Jai Sogani 
 🔭 Currently Building:<br>Synapse — an open-source trust, identity, and security layer for AI agents — and DeepShield AI, a multi-agent fraud detection and risk intelligence platform.<br><br>🌱 Exploring:<br>Agentic AI systems, Model Context Protocol (MCP), secure agent communication, multi-agent orchestration, AI infrastructure, and autonomous workflows.<br><br>👯 Open to Collaborate On:<br>AI agent security, multi-agent platforms, developer tooling, fraud detection systems, and open-source AI infrastructure.<br><br>💬 Ask Me About:<br>AI agents, agent security, trust & reputation systems, hackathons, open-source projects, and building AI products from idea to launch.     <br>                                                                                                                                                                                                                                                                                  
  📫 How to Reach Me <br>                                                                                                                     
 🌐 GitHub: github.com/jaisogani-ai
